@@ -4,8 +4,6 @@
 
 ![Spotify hit or flop predictor 1](https://user-images.githubusercontent.com/51138087/99959075-42182400-2d3f-11eb-9412-1922f0614180.png)
 
-### Project Gitbook- https://shahyaseen71.gitbook.io/internshipgitbook/
-
 ### Project description:
 Spotify data set is provided and consist of features provided for the tracks. A Classification model is developed to predict whether a track in a data set is hit or flop.
 
